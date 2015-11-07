@@ -9,7 +9,7 @@ I would determine that my framework is working correctly by including a function
 
 ##The Vacationing Salesman
 
-You can run the script by calling: python Vacationing-Salesman-Solution.py
+You can run the script by calling: python Vacationing-Salesman-Solution.py if you're on Windows, or python3 Vacationing-Salesman-Solution.py if you're on a Mac.
 
 I chose Python because it is the language I am most familiar with, and writing Python tends to be faster than other languages. This is because Python doesn't need semicolons, parentheses, brackets, or a declaration of the type of a variable.
 
